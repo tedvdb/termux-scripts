@@ -1,6 +1,7 @@
-.ssh
 .bash_history
+.config
 .gitconfig
+.ssh
 .termux_authinfo
 .viminfo
 storage
